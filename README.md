@@ -10,7 +10,7 @@ Also, a stacking model is built automatically to detect the best model to classi
 
 - To get the tool, run the following code
 ```
-git clone https://github.com/LoveUCB/APMA
+git clone https://github.com/Spencer-JRWang/APMA_Windows
 ```
 - To install the dependency, run the following code
 ```
